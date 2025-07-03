@@ -53,6 +53,8 @@ html {
 
   overflow-x: hidden;
 
+  scroll-behavior: smooth;
+
 }
 
 body {
@@ -102,6 +104,7 @@ a:hover {
 
 ul[role="list"] {
   list-style: none;
+  
 }
 
 img {
